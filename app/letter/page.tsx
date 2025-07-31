@@ -90,7 +90,7 @@ export default function LetterPage() {
             });
           }
         }
-      }, 15); // Faster typing speed (15ms instead of 30ms)
+      }, 30); // Slower typing speed (50ms instead of 15ms)
 
       return () => clearTimeout(timer);
     } else if (showLetter && currentIndex >= letterText.length) {
