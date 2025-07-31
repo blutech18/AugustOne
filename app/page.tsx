@@ -27,11 +27,11 @@ export default function Home() {
           
           <div className="love-card rounded-3xl p-8 shadow-lg">
             <p className="text-2xl md:text-3xl font-light text-gray-700 mb-6">
-              Hi love...
+              Hi Palangga...
             </p>
             <p className="text-lg text-gray-600 leading-relaxed">
-              I have something special to share with you today. A little journey through 
-              all the reasons why you make my world brighter every single day.
+              Naa koy something special para nimo today. A little journey through 
+              tanan nga reasons ngano nimo gi-brighten akong world ug ngano grateful kaayo ko every moment with you.
             </p>
           </div>
           

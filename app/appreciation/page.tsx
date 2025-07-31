@@ -6,10 +6,12 @@ import AnimatedButton from '@/components/AnimatedButton';
 import PageTransition from '@/components/PageTransition';
 
 const loveStatements = [
-  "I love your infectious laugh that lights up every room...",
-  "I love how you support my dreams and believe in me...",
-  "I love our silly moments and inside jokes...",
-  "I love how you make ordinary days feel extraordinary..."
+  "I love how you make me believe that change is possible...",
+  "I love that you've endured life with me by your side...",
+  "I love that you still choose me, even when I'm not perfect...",
+  "I love how we laugh together even after crying the day before...",
+  "I love that you're perfect for me—for my eyes only...",
+  "I love that you exist, and that's already more than enough..."
 ];
 
 export default function AppreciationPage() {
